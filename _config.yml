@@ -52,13 +52,13 @@ social-network-links:
   email: "kosfeldtd@slu.edu"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: github.com/TKosfeld
+  github: TKosfeld
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/tim-kosfeld-ba6b981b3/
+  linkedin: /in/tim-kosfeld-ba6b981b3/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,7 +71,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: https://orcid.org/0000-0003-1515-3782
+  ORCID: 0000-0003-1515-3782
   google-scholar: citations?user=Hqs7bswAAAAJ&hl=en
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
