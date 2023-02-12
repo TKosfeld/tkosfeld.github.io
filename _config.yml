@@ -22,9 +22,9 @@ author: Tim Kosfeld
 navbar-links:
   About Me: "aboutme"
   Current and Former Projects:
-    - Immune Cell Diagnostics: "https://beautifuljekyll.com"
-    - Whole Genome Annotation in Zea Synthetic Populations: "https://www.markdowntutorial.com/"
-    - Structural Variant Expression Assessment: "https://www.markdowntutorial.com/" 
+    - Immune Cell Diagnostics: "icat"
+    - Whole Genome Annotation in Zea Synthetic Populations: "phg"
+    - Structural Variant Expression Assessment: "viper" 
 
 ################
 # --- Logo --- #
