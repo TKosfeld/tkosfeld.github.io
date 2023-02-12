@@ -1,46 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Computational Immunologist
+title: Genome Imputation
+subtitle: With Dr. Greg Ziegler and Dr. Ivan Baxter
 ---
 
-### Curriculum Vitae
+### Building a Practical Haplotype Graph based Genetic Map of the zea Synthetic Population
 
-[CV](https://tkosfeld.github.io/PHD_CV.pdf)
+Domestication and inbreeding of modern maize has resulted in the loss of much of the genetic diversity found in the wild species of maize, teosinte. Genetic variation in teosinte could provide a useful source of diversity lacking in modern maize cultivars. However, the lack of a high-resolution genetic resource for the study of teosinte has made it difficult to associate that variation with agronomic traits. We are producing a genetic map of the Zea Synthetic maize population, a genetic resource created by randomly mating a 38-accession synthetic breeding population consisting of 11 geographically diverse teosinte (Zea mays ssp. parviglumis) crossed with B73 and the 26 inbred Nested Association Mapping (NAM) founders.
 
-### Education
-
-M.S. Bioinformatics and Computational Biology, Saint Louis University 
-
-B.S. Computer Science, Saint Louis University 
-
-B.S. Data Science, Saint Louis University
-
-### Publications
-
-A. Rajeh, K. Wolf, C. Schiebout, A. Wu, T. Kosfeld, R. DiPaolo*, and T.-H. Ahn*, “iCAT: Diagnostic Assessment 
-Tool of Immunological History using High-Throughput TCR Sequencing”, 2020. [DOI](https://f1000research.com/articles/10-65/v2)
-
-T. Kosfeld, J. McMillan, R. DiPaolo, J. Hou*, and T.-H. Ahn*, “Performance Evaluation of Viral Infection 
-Diagnosis using T-Cell Receptor Sequence and Artificial Intelligence”, in Proceedings of the 11th ACM 
-International Conference on Bioinformatics, Computational Biology and Health Informatics (ACM-BCB ’20), 
-September 21–24, 2020, Virtual Event, USA, 2020. (Acceptance Rate=30%) (Primary Author) [DOI](https://dl.acm.org/doi/10.1145/3388440.3412420)
-
-### Conference Presentations and Invited Talks
-
-T. Kosfeld, J. McMillan, R. DiPaolo, J. Hou*, and T.-H. Ahn*, “Performance Evaluation of Viral Infection Diagnosis 
-using T-Cell Receptor Sequence and Artificial Intelligence”, in Proceedings of the 11th ACM International 
-Conference on Bioinformatics, Computational Biology and Health Informatics (BCB ’20), September 21–24, 2020, 
-Virtual Event, USA, 2020. (paper presentation)
-
-T. Kosfeld, “VIPER: Identification of high-impact structural variants in tomato leaves”, George and Helen Kohut 
-Symposium, Cornell University, Ithaca, NY. (poster presentation)
-
-T. Kosfeld, “Tracking Antigen Exposure Using Deep Neural Networks”, Senior Legacy Symposium, Saint Louis 
-University, St. Louis, MO. (poster presentation)
-
-T. Kosfeld, “Assessing Covid Severity Through Convolutional Neural Networks”, Senior Computer Science
-Capstone, Saint Louis University, St. Louis, MO. (paper presentation)
-
-T. Kosfeld, “Tracking COVID-19 in Missouri”, Senior Data Science Capstone, Saint Louis University, St. Louis, MO. 
-(paper presentation)
+Our approach leverages low coverage GBS data and full genome sequences of the population’s parent genomes using the practical haplotype graph (PHG), a server mounted pangenome built from a SQL database populated by a reference panel of whole genome sequences. To mirror the makeup of our Zea Synthetic population, we filled a reference panel with data from the whole-genome sequences of the 26 inbred NAM founders and 11 teosinte pseudo-genomes. ~4.6 million haplotypes were sampled from individuals and groups in this diverse panel to populate the PHG with individual and consensus reference haplotypes. These haplotypes were paired with low resolution GBS sequences from 2000 doubled haploids from the Zea Synthetic population to accurately impute WGS data for the entire population for use in association mapping.
