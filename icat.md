@@ -20,4 +20,7 @@ The pathogen exposure history of an individual is recorded in their T-cell reper
 
 ### Assessing Covid Severity Through Convolutional Neural Networks
 
+The adaptive immune system responds to disease through highly variable coded receptors that identify pathogens and antigens. These receptors are encoded by unique DNA sequences that allow immune cells to express millions of different receptors. Analysis by high-throughput sequencing of these immune cell receptor sequences present a reliable indication of immune health, disease proliferation, and disease mutability. Even following infection, the diversity of pathogen-specific immune cells and their receptor sequences can serve as a lasting measure of patient health, disease efficacy, and rate of mutation. 
+As such, binary classifications of publicly available samples would be possible through clustering graph convolutional networks. Forging predictive models capable of forecasting patient health through the acceptance of multi-vectored immune cell data. However, node classification in high vector space requires both the native preprocessing of sizable datasets and an established Graphical Neural Network framework.
+
 
