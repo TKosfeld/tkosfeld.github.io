@@ -7,7 +7,9 @@ subtitle: With Dr. Tae-Hyuk Ahn and Dr. Richard DiPaolo
 ### Tracking Antigen Exposure Using Deep Neural Networks
 
 Because infection causes expansion of pathogen specific T cells that express pathogen specific unique receptors encoded in DNA,  exposure history of an individual can be accessed through examination of their T-cell receptors (TCRs). These unique sequences can be used as biomarkers for tracking T-cell responses and cataloging immunological history. 
+
 The advent of high-throughput sequencing and analyses of immune cell receptor sequences has presented a unique opportunity to inform our understanding of immunological responses to infections. Following the body’s recovery, pathogen-specific immune cells and their receptor sequences remain present at higher frequencies, with their increase in frequency preventing subsequent infections. As a result of their persistence in the body, T-cells are a useful tool for diagnosing infections and evaluating vaccine efficacy as a stable biomarker. However, this process requires thorough analysis of massive datasets at an accuracy beyond the capabilities of traditional statistical tests. 
+
 Here we utilize a Deep Neural Network to identify specific viral infections or vaccination statuses of 4 TCR sequenced cohorts: mouse monkeypox, mouse smallpox, human cytomegalovirus serostatus, and human smallpox. The success of our intensive experiments holds the potential for the speedy creation of low-cost, highly accurate diagnostic assays.
 
 ### iCAT: Diagnostic Assessment Tool of Immunological History using High-Throughput TCR Sequencing
