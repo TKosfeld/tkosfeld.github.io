@@ -1,8 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Computational Immunologist
+# subtitle: Computational Immunologist
 ---
+
+### Areas of Research 
+Computational Biology, Functional Genomics, Computational Immunology, Immunogenomics, Comparative Immunology, Plant Genomics, Computational Statistics
 
 ### Curriculum Vitae
 
