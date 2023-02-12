@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adaptive Immune Cell Analysis
+title: TCR Analysis
 subtitle: With Dr. Tae-Hyuk Ahn and Dr. Richard DiPaolo
 ---
 
