@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VIPER: Variant Identification Pipeline with Expression Realization
+title: VIPER
 subtitle: With PhD Candidate Anna Hermans and Dr. Jim Giovannoni
 ---
 
