@@ -21,7 +21,7 @@ author: Tim Kosfeld
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
+  Current and Former Projects:
     - Immune Cell Diagnostics: "https://beautifuljekyll.com"
     - Whole Genome Annotation in Zea Synthetic Populations: "https://www.markdowntutorial.com/"
     - Structural Variant Expression Assessment: "https://www.markdowntutorial.com/" 
