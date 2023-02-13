@@ -2,6 +2,8 @@
 layout: page
 title: VIPER
 subtitle: With PhD Candidate Anna Hermans and Dr. Jim Giovannoni
+cover-img: /assets/img/cornell.jpg
+share-img: /assets/img/cornell.jpg
 ---
 
 ### Structural Variant Identification in Tomato RNA-seq Data
