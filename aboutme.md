@@ -2,6 +2,7 @@
 layout: page
 title: About me
 # subtitle: Computational Immunologist
+cover-img: /assets/img/me.jpg
 ---
 
 ### Areas of Research 
