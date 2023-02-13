@@ -2,6 +2,8 @@
 layout: page
 title: TCR Analysis
 subtitle: With Dr. Tae-Hyuk Ahn and Dr. Richard DiPaolo
+cover-img: /assets/img/slu_research.png
+share-img: /assets/img/slu_research.png
 ---
 
 ### iCAT: Diagnostic Assessment Tool of Immunological History using High-Throughput TCR Sequencing
