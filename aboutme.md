@@ -3,6 +3,9 @@ layout: page
 title: About me
 # subtitle: Computational Immunologist
 ---
+
+I am a computer science and computational immunology student. My research interests include the construction of high-throughput data processing pipelines and utilization of machine learning (ML) and deep learning (DL) on high-performance computing (HPC) systems to address large-scale agricultural and medical data.
+
 ![ME](/assets/img/me.jpg)
 
 ### Areas of Research 
