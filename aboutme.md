@@ -3,7 +3,7 @@ layout: page
 title: About me
 # subtitle: Computational Immunologist
 ---
-[ME](/assets/img/me.jpg)
+![ME](/assets/img/me.jpg)
 
 ### Areas of Research 
 Computational Biology, Functional Genomics, Computational Immunology, Immunogenomics, Comparative Immunology, Plant Genomics, Computational Statistics
