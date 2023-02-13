@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VIPER
-subtitle: With PhD Candidate Anna Hermans and Dr. Jim Giovannoni
+subtitle: PhD Candidate Anna Hermanns and Dr. Jim Giovannoni, Cornell University
 cover-img: /assets/img/cornell.jpg
 share-img: /assets/img/cornell.jpg
 ---
