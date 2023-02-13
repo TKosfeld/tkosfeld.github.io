@@ -5,7 +5,7 @@ subtitle: Tracking Antigen Exposure Using Deep Neural Networks
 #cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/symp_fig2.png
 #share-img: /assets/img/path.jpg
-tags: [structural variants, leaflet morphology, RNA-seq]
+tags: [computational immunology, comparitive immunology, machine learning, deep learning, adaptive immune receptors]
 ---
 
   Because infection causes expansion of pathogen specific T cells that express pathogen specific unique receptors encoded in DNA,  exposure history of an individual can be accessed through examination of their T-cell receptors (TCRs). These unique sequences can be used as biomarkers for tracking T-cell responses and cataloging immunological history. 
