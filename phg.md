@@ -2,6 +2,8 @@
 layout: page
 title: Genome Imputation
 subtitle: With Dr. Greg Ziegler and Dr. Ivan Baxter
+cover-img: /assets/img/Danforth.jpg
+share-img: /assets/img/Danforth.jpg
 ---
 
 ### Building a Practical Haplotype Graph based Genetic Map of the zea Synthetic Population
