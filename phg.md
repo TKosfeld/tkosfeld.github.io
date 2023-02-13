@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genome Imputation
-subtitle: With Dr. Greg Ziegler and Dr. Ivan Baxter
+subtitle: Dr. Greg Ziegler and Dr. Ivan Baxter, Donald Danforth Plant Science Center
 cover-img: /assets/img/Danforth.jpg
 share-img: /assets/img/Danforth.jpg
 ---
