@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Saint Louis University Medical School: TCR Analysis
-subtitle: Dr. Tae-Hyuk Ahn and Dr. Richard DiPaolo
+title: TCR Analysis
+subtitle: Dr. Tae-Hyuk Ahn and Dr. Richard DiPaolo, Saint Louis University Computer Science and Medical School
 cover-img: /assets/img/slu_research.png
 share-img: /assets/img/slu_research.png
 ---
